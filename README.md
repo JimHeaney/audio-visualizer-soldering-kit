@@ -5,6 +5,9 @@ The Audio Visualizer Soldering Kit uses an LM3914 to show the loudness of your m
 
 In its current configuration it does work, but only with very loud noises. I need to do a re-design of this board to make it work better.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/audio-visualizer-soldering-kit.html).
+
 ## Current Release
 Version 1.2
 
