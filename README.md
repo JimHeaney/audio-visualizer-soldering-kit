@@ -15,7 +15,6 @@ Version 1.2
 The Audio Visualizer Soldering Kit is paused. I want to come back and finish it at some point.
 
 ## Instructions & Further Documentation
-The latest assembly instructions can be found [here](http://www.venatormfg.com/voltmeter-solder-kit-instructions.html).
 
 ## Support Me
 You can buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
